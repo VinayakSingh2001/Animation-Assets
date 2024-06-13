@@ -5,7 +5,7 @@ export default function App() {
   const [isHovered, setIsHovered] = useState(false);
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+  
       <div className="bg-black px-40 py-40">
 
         {/* First DIVE */}

@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.margix{
+  margin: 40vh 20vw;
+}
